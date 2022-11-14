@@ -1,2 +1,2 @@
-# binary_trees
+# Binary_trees
 0x1D. C - Binary trees
